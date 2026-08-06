@@ -4,7 +4,6 @@ The security-first Rust API gateway that auto-translates payloads, self-generate
 
 [![License: MIT OR Apache-2.0](https://img.shields.io/badge/License-MIT%20OR%20Apache--2.0-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/Rust-1.81+-orange.svg)](https://www.rust-lang.org/)
-[![CI](https://github.com/yourusername/prism-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/prism-gateway/actions)
 
 ---
 
